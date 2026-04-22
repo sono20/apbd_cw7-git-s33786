@@ -4,3 +4,4 @@ obj/
 *.http
 appsettings.Development.json
 Properties/launchSettings.json
+appsettings*.json
